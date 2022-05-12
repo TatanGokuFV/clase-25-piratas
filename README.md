@@ -1,1 +1,2 @@
-# clase-25-piratas
+# PRO-C23
+Plantilla para estudiante con comentarios 
